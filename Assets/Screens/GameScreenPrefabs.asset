@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2c32e09d2824f4c9cd9aafcc89f4adf, type: 3}
+  m_Name: GameScreenPrefabs
+  m_EditorClassIdentifier: 
+  _tapWaitScreen: {fileID: 5119785497431090845, guid: 5e9fb10da0e5c2b4e9730f38acf241c2, type: 3}
+  _gameScreen: {fileID: 5699711914734024793, guid: 20fff8eda7b0d3c49b37b63c65847304, type: 3}
+  _winScreenBackground: {fileID: 5690708915635592075, guid: d08b5136364cb5c46a69258a4ccc79bf, type: 3}
+  _winScreen: {fileID: 6364452003323199160, guid: 0742c68ab5808bb4ea47e6429ff11957, type: 3}
+  _loseScreen: {fileID: 8596634051368762166, guid: f50de9ff3959dea4bbde696bbfdaeffc, type: 3}
+  _skinChangeScreen: {fileID: 2528725556578670386, guid: 0ce781f7308559446a8ab8362113ff6d, type: 3}
+  _skinPreviewScreen: {fileID: 69687458739632368, guid: 39be41ee12fa84d41b7b175a4eb7b7e2, type: 3}

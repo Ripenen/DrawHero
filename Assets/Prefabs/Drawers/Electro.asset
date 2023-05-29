@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 865077583ce04c06849927077bb0a3f9, type: 3}
+  m_Name: Electro
+  m_EditorClassIdentifier: 
+  _name: 
+  _material: {fileID: 2100000, guid: c6c78708480eab74c8a257e421bb7e3c, type: 2}
+  _trail: {fileID: 19893186, guid: e75cf0dba269ca24e943482d44f3011f, type: 3}
+  _icon: {fileID: 21300000, guid: 8ae00afe9ad20434db1d4c439c7f02b8, type: 3}
+  _id: 1

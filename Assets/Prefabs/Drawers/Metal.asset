@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 865077583ce04c06849927077bb0a3f9, type: 3}
+  m_Name: Metal
+  m_EditorClassIdentifier: 
+  _name: 
+  _material: {fileID: 2100000, guid: a73585d8ed3cbed45bbcc2f5b9968700, type: 2}
+  _trail: {fileID: 0}
+  _icon: {fileID: 21300000, guid: 5126960f1e97ddd408e4349c803e6a23, type: 3}
+  _id: 5
